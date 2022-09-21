@@ -1,6 +1,6 @@
 # Hello-world
 
-My first GitHub project at Microverse.
+My first GitHub project at Microverse in which I have installed linters, added an html file with the text "Hello Microverse!", a style.css file, and a README file.
 
 
 ## Built With
@@ -8,28 +8,16 @@ My first GitHub project at Microverse.
 - HTML
 - CSS
 
-
 ## Getting Started
+
 
 **Creating first GitHub Project at Microverse.**
 
 ### Prerequisites
-    - HTML
-    - CSS
+
     - Git
     - GitHub
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+    - Node.js
 
 ## Authors
 
@@ -48,15 +36,5 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
 
 
